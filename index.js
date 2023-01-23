@@ -57,7 +57,7 @@ const getDalleResponse = async (clientText) => {
 
 const commands = (client, message) => {
     const iaCommands = {
-        davinci3: "Neura",
+        davinci3: "Aurora",
         dalle: "Imagem"
     }
 
